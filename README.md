@@ -1,11 +1,11 @@
 ### Hi there, I'm Igor 👋
 I currently work with Full Stack development, mainly in Node JS and React JS.
 
-I am also a specialist in Java and C.
+✔ I'm also a specialist in Java and C.
 
-I am currently focused on improving my studies in Node JS and React JS.
+✔ I'm currently focused on improving my studies in Node JS and React JS 👨‍💻.
 
-I am graduating from the 4th period of Information Systems (UFOP).
+✔ I'm graduating from the 4th period of Information Systems (UFOP).
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
  
