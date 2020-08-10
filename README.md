@@ -9,13 +9,13 @@ I currently work with Full Stack development, mainly in Node JS and React JS wit
 
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-<br>
+<!-- <br>
 
 <div style="display: flex; flex-direction: column; align-items:center; justify-content: center; flex-wrap: wrap; align-content: center;">
   <img style="flex: 1; width: 100%; max-width: 500px; margin: 5px" src="https://github-readme-stats.vercel.app/api?username=IgorVVieira&hide=html&count_private=true&show_icons=true&theme=dracula" />
 </div>
 
-<br>
+<br> -->
  
 ## Contact 👨‍💻
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/IgorVVieira)
