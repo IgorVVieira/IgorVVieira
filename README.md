@@ -3,7 +3,7 @@ I currently work with Full Stack development, mainly in Node JS, React JS and An
 
 ✔ I also have knowledge in Java and C.
 
-✔ I'm currently focused on improving my studies in Node JS and React JS 👨‍💻.
+✔ I'm currently focused on improving my studies in Node JS, React JS and Angular 👨‍💻.
 
 ✔ I'm graduating from the 4th period of Information Systems (UFOP).
 
