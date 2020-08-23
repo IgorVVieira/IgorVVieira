@@ -1,5 +1,5 @@
 ### Hi there, I'm Igor 👋
-I currently work with Full Stack development, mainly in Node JS and React JS with relational Database.
+I currently work with Full Stack development, mainly in Node JS, React JS and Angular with relational Database.
 
 ✔ I also have knowledge in Java and C.
 
