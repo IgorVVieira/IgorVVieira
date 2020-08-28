@@ -1,9 +1,9 @@
 ### Hi there, I'm Igor 👋
-I currently work with Full Stack development, mainly in Node JS, React JS and Angular with relational Database.
+I currently work with Full Stack development, mainly in Node JS and React JS with relational Database usually PostgreSQL.
 
 ✔ I also have knowledge in Java and C.
 
-✔ I'm currently focused on improving my studies in Node JS, React JS and Angular 👨‍💻.
+✔ I'm currently focused on improving my studies in Node JS and React JS 👨‍💻.
 
 ✔ I'm graduating from the 4th period of Information Systems (UFOP).
 
