@@ -1,28 +1,22 @@
-### Hi there, I'm Igor 👋
-I currently work with Full Stack development, in Node JS and React JS with relational Database usually PostgreSQL.
+### 👋 Hi there 
 
-✔ I also have knowledge in Java, C and PHP with Laravel.
+- ⚡ Graduating from the 5th period in Information Systems - Federal University of Ouro Preto (UFOP).
+- 😄 I’m currently learning Back-End Development with Node.js and PHP(Laravel).   
 
-✔ I'm currently focused on improving my studies in Node, React and TypeScript 👨‍💻.
+[![Github stats](https://github-readme-stats.vercel.app/api?username=IgorVVieira&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/IgorVVieira/github-readme-stats)
 
-✔ I'm graduating from the 4th period of Information Systems (UFOP).
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lucashmcastro">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IgorVVieira&layout=compact&theme=radical" />
+</a>
 
-![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+### 📫 Reach me at 
 
-<!-- <br>
-
-<div style="display: flex; flex-direction: column; align-items:center; justify-content: center; flex-wrap: wrap; align-content: center;">
-  <img style="flex: 1; width: 100%; max-width: 500px; margin: 5px" src="https://github-readme-stats.vercel.app/api?username=IgorVVieira&hide=html&count_private=true&show_icons=true&theme=dracula" />
-</div>
-
-<br> -->
- 
-## Contact 👨‍💻
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/IgorVVieira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/igor-vitor-vieira-8200b7186/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:igor.gutoo63@gmail.com)
- 
-- Thanks for visiting. 
- 
-- Hope you enjoy it!! 😁
-
+<p align="left">
+    <a href="https://github.com/IgorVVieira">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/IgorVVieira">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/igor-vitor-vieira-8200b7186/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/igor-vitor-vieira-8200b7186/">
+    </a>
+</p>
