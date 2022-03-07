@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 
 - ⚡ Graduating from the 6th period in Information Systems - Federal University of Ouro Preto (UFOP).
-- 😄 I’m currently learning Back-End Development with Node.js and PHP(Laravel).   
+- 😄 I’m currently learning Back-End Development with Node.js and Typescript.   
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=IgorVVieira&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/IgorVVieira/github-readme-stats)
 
