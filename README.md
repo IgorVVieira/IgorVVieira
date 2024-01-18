@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 
 - ⚡ Graduating Information Systems.
-- 😄 I’m currently learning Back-End Development with Node.js and Typescript.   
+- 😄 I'm currently working with Backend Development with Node.js and Typescript using Clean Code, Clean architecture and TDD. Furthermore, I am a Docker and AWS enthusiast..   
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=IgorVVieira&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/IgorVVieira/github-readme-stats)
 
